@@ -1,4 +1,4 @@
-markupsafe
+markupsafe==2.1.1
 Flask==2.0.3
 prometheus-client==0.8.0
 PyYAML==5.4
